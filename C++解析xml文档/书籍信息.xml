@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ANSI" ?>
+<!DOCTYPE Library SYSTEM "group.dtd">
+<Library>
+<Book Bookid="001">
+<Title>白夜行</Title>
+<Author>东野圭吾</Author>
+<Price>29rmb</Price>
+<Publisher>南海出版公司</Publisher>
+</Book>
+<Member>
+<Name>
+<Firstname>何</Firstname>
+<Middlename>姣</Middlename>
+<Lastname>姣</Lastname>
+</Name>
+<Address>
+<Housenumber>17</Housenumber>
+<Street>太和大道</Street>
+<City>鄂州</City>
+</Address>
+</Member>
+</Library>

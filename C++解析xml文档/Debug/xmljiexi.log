@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/9/22 22:14:50。
+     1>项目“c:\Users\dell\documents\visual studio 2013\Projects\xmljiexi\xmljiexi\xmljiexi.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Users\dell\Downloads\VC\bin\CL.exe /c /I"C:\Users\dell\Documents\Tencent Files\2677915245\FileRecv\tinyxml_2_6_2\tinyxml" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\Tencent Files\2677915245\FileRecv\tinyxml_2_6_2\tinyxml\tinystr.cpp" "..\..\..\..\Tencent Files\2677915245\FileRecv\tinyxml_2_6_2\tinyxml\tinyxml.cpp" "..\..\..\..\Tencent Files\2677915245\FileRecv\tinyxml_2_6_2\tinyxml\tinyxmlerror.cpp" "..\..\..\..\Tencent Files\2677915245\FileRecv\tinyxml_2_6_2\tinyxml\tinyxmlparser.cpp" stdafx.cpp xmljiexi.cpp
+         xmljiexi.cpp
+         stdafx.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         正在生成代码...
+       Link:
+         C:\Users\dell\Downloads\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\dell\documents\visual studio 2013\Projects\xmljiexi\Debug\xmljiexi.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\dell\Documents\Tencent Files\2677915245\FileRecv\tinyxml_2_6_2\tinyxml" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\dell\documents\visual studio 2013\Projects\xmljiexi\Debug\xmljiexi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\dell\documents\visual studio 2013\Projects\xmljiexi\Debug\xmljiexi.lib" /MACHINE:X86 Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\stdafx.obj
+         Debug\xmljiexi.obj
+         xmljiexi.vcxproj -> c:\users\dell\documents\visual studio 2013\Projects\xmljiexi\Debug\xmljiexi.exe
+     1>已完成生成项目“c:\Users\dell\documents\visual studio 2013\Projects\xmljiexi\xmljiexi\xmljiexi.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.06
